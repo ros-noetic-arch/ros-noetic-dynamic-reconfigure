@@ -1,7 +1,7 @@
 pkgbase = ros-noetic-dynamic-reconfigure
 	pkgdesc = ROS - This unary stack contains the dynamic_reconfigure package which provides a means to change node parameters at any time without having to restart the node.
 	pkgver = 1.7.3
-	pkgrel = 1
+	pkgrel = 2
 	url = https://wiki.ros.org/dynamic_reconfigure
 	arch = i686
 	arch = x86_64
@@ -26,7 +26,7 @@ pkgbase = ros-noetic-dynamic-reconfigure
 	depends = ros-noetic-rospy
 	depends = ros-noetic-roslib
 	depends = boost
-	source = ros-noetic-dynamic-reconfigure-1.7.3.tar.gz::https://github.com/ros/dynamic_reconfigure/archive/1.7.3.tar.gz
-	sha256sums = d6c2fac525cb15437d4e986894457736f586864754c822205d93b55a01e69ac8
+	source = ros-noetic-dynamic-reconfigure-1.7.3.tar.gz::https://github.com/ros/dynamic_reconfigure/archive/2654f228adae0848c6e9b70fcf07f890ca6a2841.tar.gz
+	sha256sums = 37b9c7dbeb15453f200875a43e954c27fca3eff7f55d59e428bbb7b9cc3a2fd8
 
 pkgname = ros-noetic-dynamic-reconfigure
